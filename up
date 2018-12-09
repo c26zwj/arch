@@ -1,6 +1,0 @@
-#!/bin/bash
-
-mv ./* ../
-cd ..
-rm -rf linux
-rm up
