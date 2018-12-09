@@ -1,0 +1,6 @@
+keymaps 0-2,4-5,8,12
+keycode 29 = SCtrl
+keycode 42 = SShift
+keycode 56 = SAlt
+keycode 54 = SShift
+keycode 97 = SCtrl
