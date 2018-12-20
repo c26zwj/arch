@@ -2,3 +2,4 @@
 
 mv linux/bashrc .bashrc
 source .bashrc
+loadkeys sticky
