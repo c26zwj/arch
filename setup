@@ -3,3 +3,6 @@
 mv linux/bashrc .bashrc
 source .bashrc
 loadkeys sticky
+
+chmod +x mirrors
+./mirrors
