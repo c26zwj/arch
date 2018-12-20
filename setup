@@ -1,1 +1,4 @@
+#!/bin/bash
 
+mv linux/bashrc .bashrc
+source .bashrc
